@@ -7,9 +7,9 @@ This is an exercise developed during MIT xPro Professional Certificate in Coding
 Installation 🔧
 To install this project in your machine, follow these steps:
 
-Download or clone the repository
-Go to content folder and add it to your code editor tool
-Open index.html
+1. Download or clone the repository
+2. Go to content folder and add it to your code editor tool
+3. Open index.html
 
 Run 🚀
-Element follow the mouse position on the screen using the mouse events.
+1. Element follow the mouse position on the screen using the mouse events.
