@@ -20,3 +20,12 @@ To install this project in your machine, follow these steps:
 
 1. Responsive support
 2. The mouse movement event is used to update the position of the "eye" element displayed on the page
+
+## Files 📁
+- eyes
+    - eyes.js
+    - eyes.png
+    - index.html
+    - LICENSE
+    - README.md
+    - styles.css
