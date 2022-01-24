@@ -23,7 +23,7 @@ To install this project in your machine, follow these steps:
 
 ## License information 👨‍⚖️
 
-Copyright (c) 2022 Shilp RJ
+Copyright (c) 2022 Shilrj
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
